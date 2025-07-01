@@ -7,14 +7,14 @@ I’m Paulo Castro, a Controller with a strong interest in data analysis, automa
 
 ## 🚀 About Me
 
-- 📊 Background in Operational and Financial Controlling  
-- 📈 Interested in exploratory data analysis, dashboarding, and automation  
-- 🔄 Currently developing data-driven projects using SQL and Power BI  
-- 🌍 Open to freelance collaborations and analytical consulting
+- Background in Operational and Financial Controlling  
+- Interested in exploratory data analysis, dashboarding, and automation  
+- Currently developing data-driven projects using SQL and Power BI  
+- Open to freelance collaborations and analytical consulting
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages & Tools**  
 - SQL · Power BI · Excel · VBA · Python (basic) · C# (basic)  
@@ -28,9 +28,9 @@ I’m Paulo Castro, a Controller with a strong interest in data analysis, automa
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 🧭 Logistics Delivery Analysis  
+### Logistics Delivery Analysis  
 *SQL + Power BI*  
 Full analytical workflow on delivery data, with data cleaning in SQL, performance KPIs and interactive dashboards in Power BI.
 
@@ -38,13 +38,13 @@ Full analytical workflow on delivery data, with data cleaning in SQL, performanc
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 pauloterrosocastro@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pauloterrosocastro/)
 
 ---
 
-## 💡 Next Steps
+## Next Steps
 
 New projects are currently in development. Stay tuned or reach out for collaboration.
