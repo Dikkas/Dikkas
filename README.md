@@ -5,7 +5,7 @@ I’m Paulo Castro, a Controller with a strong interest in data analysis, automa
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Background in Operational and Financial Controlling  
 - Interested in exploratory data analysis, dashboarding, and automation  
