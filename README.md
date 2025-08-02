@@ -34,14 +34,14 @@ I’m Paulo Castro, a Controller with a strong interest in data analysis, automa
 *SQL + Power BI*  
 Full analytical workflow on delivery data, with data cleaning in SQL, performance KPIs and interactive dashboards in Power BI.
 
-[🔗 View Repository »](https://github.com/Dikkas/logistics-delivery-analysis-sql-powerbi)
+[View Repository »](https://github.com/Dikkas/logistics-delivery-analysis-sql-powerbi)
 
 ---
 
 ## Contact
 
-- 📧 pauloterrosocastro@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pauloterrosocastro/)
+- pauloterrosocastro@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/pauloterrosocastro/)
 
 ---
 
